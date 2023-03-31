@@ -1,0 +1,22 @@
+C:\Users\Rewfix\Desktop\IQ test\IQ test\bin\Release\IQ test.exe.config
+C:\Users\Rewfix\Desktop\IQ test\IQ test\bin\Release\IQ test.exe
+C:\Users\Rewfix\Desktop\IQ test\IQ test\bin\Release\IQ test.pdb
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ_test.Form1.resources
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ_test.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.exe
+C:\Users\Rewfix\Desktop\IQ test\IQ test\obj\Release\IQ test.pdb
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\bin\Release\IQ test.exe.config
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\bin\Release\IQ test.exe
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\bin\Release\IQ test.pdb
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.csproj.AssemblyReference.cache
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ_test.Form1.resources
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ_test.Properties.Resources.resources
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.csproj.GenerateResource.cache
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.csproj.CoreCompileInputs.cache
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.exe
+C:\Users\Rewfix\Desktop\Приложения\IQ test\IQ test\obj\Release\IQ test.pdb
